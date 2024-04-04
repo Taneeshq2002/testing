@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 This is new file
-=======
+
 new text
->>>>>>> testbranch
+
